@@ -1,8 +1,7 @@
 - heya i'm daaft
 - i like fnf and other things
-- i'm learning English
-- 😄 Pronouns:none
-- ⚡ Fun fact:amongass
+- Pronouns:none
+- Fun fact:amongass
 
 <!---
 Daafty/Daafty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
